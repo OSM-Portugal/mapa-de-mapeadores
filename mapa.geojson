@@ -1,0 +1,281 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alex_Mapper",
+                "description": "https://www.openstreetmap.org/user/Alex_Mapper "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.887794,
+                    37.152381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "https://www.openstreetmap.org/user/Alex_Mapper ",
+                "name": "Alex_Mapper"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.136419,
+                    38.707411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alexandre Moleiro [Alexmol]",
+                "description": "https://www.openstreetmap.org/user/Alexmol"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.704737,
+                    37.091821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "André Sá [o_andras]",
+                "description": "https://www.openstreetmap.org/user/o_andras"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.427707,
+                    41.551131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Antmadeira",
+                "description": "https://www.openstreetmap.org/user/Antmadeira"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.802795,
+                    39.738874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aurélio Pires [apires]",
+                "description": "https://www.openstreetmap.org/user/apires"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.427195,
+                    41.549742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cyberlima",
+                "description": "https://www.openstreetmap.org/user/PLima785"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.626923,
+                    41.232251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "https://www.openstreetmap.org/user/dricardo023",
+                "name": "dricardo023"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.896384,
+                    38.521673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "https://www.openstreetmap.org/user/FasterTracker",
+                "name": "João [FasterTracker]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.118081,
+                    38.901767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jorge Araujo [laborim]",
+                "description": "https://www.openstreetmap.org/user/laborim"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.606919,
+                    41.129151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Joseph_Moon",
+                "description": "https://www.openstreetmap.org/user/Joseph_Moon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.418117,
+                    37.193416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Matheus Gomes [matheusgomesms]",
+                "description": "https://www.openstreetmap.org/user/matheusgomesms"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.429177,
+                    40.210974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NunoCaldeira",
+                "description": "https://www.openstreetmap.org/user/NunoCaldeira/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.943936,
+                    32.750323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pedro [PedroMTG13]",
+                "description": "https://www.openstreetmap.org/user/PedroMTG13"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.682179,
+                    41.180517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pedro Gomes [Duracellpt]",
+                "description": "https://www.openstreetmap.org/user/Duracellpt"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.780901,
+                    41.531146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rui [rui228]",
+                "description": "https://www.openstreetmap.org/user/rui228"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.542696,
+                    40.925653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sílvio [aenariel]",
+                "description": "https://www.openstreetmap.org/user/aenariel"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.610757,
+                    41.149565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "waldyrious",
+                "description": "https://www.openstreetmap.org/user/waldyrious"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.42514,
+                    41.552481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Emanuel Silva",
+                "description": "https://www.openstreetmap.org/user/Silva1989"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -28.707275,
+                    38.599916
+                ]
+            }
+        }
+    ],
+    "_umap_options": {
+        "displayOnLoad": true,
+        "browsable": true,
+        "name": "Utilizadores",
+        "id": 920626,
+        "remoteData": {},
+        "iconClass": "Ball",
+        "fillColor": "Lime",
+        "fillOpacity": "0.3"
+    }
+}
