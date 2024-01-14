@@ -270,6 +270,20 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Mike Gelfand",
+                "description": "https://www.openstreetmap.org/user/mikedld"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.11529,
+                    38.76740
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "CaldeiraG",
                 "description": "https://www.openstreetmap.org/user/CaldeiraG"
             },
@@ -280,7 +294,7 @@
                     38.52391
                 ]
             }
-        }
+        },
     ],
     "_umap_options": {
         "displayOnLoad": true,
