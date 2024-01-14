@@ -266,6 +266,20 @@
                     38.599916
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mike Gelfand",
+                "description": "https://www.openstreetmap.org/user/mikedld"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.11529,
+                    38.76740
+                ]
+            }
         }
     ],
     "_umap_options": {
