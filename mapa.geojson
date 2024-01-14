@@ -280,6 +280,20 @@
                     38.76740
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CaldeiraG",
+                "description": "https://www.openstreetmap.org/user/CaldeiraG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.89410,
+                    38.52391
+                ]
+            }
         }
     ],
     "_umap_options": {
